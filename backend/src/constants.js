@@ -1,13 +1,11 @@
 const {
     NODE_ENV,
-    PORT = 5000,
+    PORT = 8000,
     DB_HOST,
     DB_USER,
     DB_PASS,
     DB_NAME,
-    JWT_SECRET,
-    JWT_ACCESS_EXPIRATION_MINUTES,
-    JWT_REFRESH_EXPIRATION_DAYS
+    JWT_SECRET
 } = process.env;
 
 module.exports = {
@@ -18,7 +16,5 @@ module.exports = {
     DB_PASS,
     DB_NAME,
     JWT_SECRET,
-    JWT_ACCESS_EXPIRATION_MINUTES,
-    JWT_REFRESH_EXPIRATION_DAYS,
-    LOGIN_TOKEN: "login",
+    LOGIN_TOKEN: "login"
 };
