@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-management-mern-application/static/css/main.b7261c52.css",
+    "main.js": "/task-management-mern-application/static/js/main.f424dc7d.js",
+    "index.html": "/task-management-mern-application/index.html",
+    "main.b7261c52.css.map": "/task-management-mern-application/static/css/main.b7261c52.css.map",
+    "main.f424dc7d.js.map": "/task-management-mern-application/static/js/main.f424dc7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7261c52.css",
+    "static/js/main.f424dc7d.js"
+  ]
+}
