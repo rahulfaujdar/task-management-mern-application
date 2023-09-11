@@ -4,6 +4,8 @@ Live Demo : https://rahulfaujdar.github.io/task-management-mern-application/
 ### Project Setup
 
 ```bash
+node version - v16.20.1
+
 # install project
 $ git clone https://github.com/rahulfaujdar/task-management-mern-application.git
 # open app directory
